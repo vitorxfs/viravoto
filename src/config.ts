@@ -9,7 +9,14 @@ export const OPEN_GRAPH = {
 		src: '/default-og-image.png',
 		alt: 'Materiais e links compartilhados no grupo do telegram do Vira Voto 2022.'
 	},
-	// twitter: 'teseonze',
+	twitter: '',
+};
+
+// See "Algolia" section of the README for more information.
+export const ALGOLIA = {
+	indexName: 'XXXXXXXXXX',
+	appId: 'XXXXXXXXXX',
+	apiKey: 'XXXXXXXXXX',
 };
 
 // This is the type of the frontmatter you put in the docs markdown files.
@@ -32,23 +39,18 @@ export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/tree/main/exa
 
 export const COMMUNITY_INVITE_URL = `https://tinyurl.com/viravoto`;
 
-export type Sidebar = Record<
-	typeof KNOWN_LANGUAGE_CODES[number],
-	Record<string, { text: string; link: string }[]>
->;
+export type Sidebar =	Record<string, { text: string; link: string }[]>;
 export const SIDEBAR: Sidebar = {
-	en: {
-		'Introdução': [
-			{ text: '🚀 Vira Voto 2022', link: 'introducao' },
-			{ text: '✏️ Como contribuir?', link: 'como-contribuir' },
-		],
-		'Estratégias': [
-			{ text: '💬 Técnicas de Comunicação', link: 'tecnicas-de-comunicacao' },
-			{ text: '🤔 Quais tópicos abordar?', link: 'quais-topicos-abordar' },
-		],
-		'Notícias': [
-			{ text: '📰 Escândalos Bolsonaro', link: 'escandalos' },
-			{ text: '💉 Genocídio na Pandemia', link: 'pandemia' },
-		],
-	},
+	'Introdução': [
+		{ text: '🚀 Vira Voto 2022', link: 'introducao' },
+		{ text: '✏️ Como contribuir?', link: 'como-contribuir' },
+	],
+	'Estratégias': [
+		{ text: '💬 Técnicas de Comunicação', link: 'tecnicas-de-comunicacao' },
+		{ text: '🤔 Quais tópicos abordar?', link: 'quais-topicos-abordar' },
+	],
+	'Notícias': [
+		{ text: '📰 Escândalos Bolsonaro', link: 'escandalos' },
+		{ text: '💉 Genocídio na Pandemia', link: 'pandemia' },
+	],
 };
