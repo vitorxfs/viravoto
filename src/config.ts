@@ -2,14 +2,14 @@ import { GITHUB_PROJECT_URL, OG_TWITTER_USER, TELEGRAM_GROUP_URL } from "./env";
 
 export const SITE = {
 	title: 'VIRA VOTO',
-	description: 'Materiais e links compartilhados no grupo do telegram do Vira Voto 2022.',
+	description: 'Materiais e links para auxiliar no vira voto 2022',
 	defaultLanguage: 'pt_BR',
 };
 
 export const OPEN_GRAPH = {
 	image: {
-		src: '/default-og-image.png',
-		alt: 'Materiais e links compartilhados no grupo do telegram do Vira Voto 2022.'
+		src: 'default-og-image.png',
+		alt: 'Materiais e links para auxiliar no vira voto 2022'
 	},
 	twitter: OG_TWITTER_USER,
 };
