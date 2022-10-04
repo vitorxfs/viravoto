@@ -1,7 +1,7 @@
 ---
 import { getLanguageFromURL, KNOWN_LANGUAGE_CODES } from '../../languages';
 import * as CONFIG from '../../config';
-import Logo from './Logo.astro';
+// import Logo from './Logo.astro';
 import SkipToContent from './SkipToContent.astro';
 import SidebarToggle from './SidebarToggle';
 import LanguageSelect from './LanguageSelect';
@@ -24,7 +24,7 @@ const lang = getLanguageFromURL(currentPage);
 			</div>
 			<div class="logo flex">
 				<a href="/">
-					<Logo size={40} />
+					<!-- <Logo size={40} /> -->
 					<h1>{CONFIG.SITE.title ?? 'Documentation'}</h1>
 				</a>
 			</div>

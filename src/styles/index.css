@@ -3,6 +3,28 @@
 	margin: 0;
 }
 
+/* Scrollbar */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #8f54a0 #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 12px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: var(--theme-bg);
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: var(--theme-accent);
+    border-radius: 10px;
+    border: 3px solid var(--theme-bg);
+  }
+
 /* Global focus outline reset */
 *:focus:not(:focus-visible) {
 	outline: none;

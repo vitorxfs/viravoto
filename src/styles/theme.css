@@ -79,7 +79,7 @@
 	--theme-code-bg: hsla(217, 19%, 27%, 1);
 	--theme-code-text: hsla(var(--color-gray-95), 1);
 	--theme-navbar-bg: rgb(245, 241, 234);
-	--theme-navbar-height: 6rem;
+	--theme-navbar-height: fit-content;
 	--theme-selection-color: hsla(var(--color-red), 1);
 	--theme-selection-bg: hsla(var(--color-red), var(--theme-accent-opacity));
 }

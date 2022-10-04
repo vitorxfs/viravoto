@@ -44,8 +44,11 @@ export const COMMUNITY_INVITE_URL = TELEGRAM_GROUP_URL;
 export type Sidebar =	Record<string, { text: string; link: string }[]>;
 export const SIDEBAR: Sidebar = {
 	'Introdução': [
-		{ text: '🚀 Vira Voto 2022', link: 'introducao' },
+		{ text: '⭐ Vira Voto 2022', link: 'introducao' },
 		{ text: '✏️ Como contribuir?', link: 'como-contribuir' },
+	],
+	'Redes Sociais': [
+		{ text: '➕ Perfis para seguir', link: 'nas-redes'},
 	],
 	'Estratégias': [
 		{ text: '💬 Técnicas de Comunicação', link: 'tecnicas-de-comunicacao' },
