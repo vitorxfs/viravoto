@@ -1,3 +1,5 @@
+import { GITHUB_PROJECT_URL, OG_TWITTER_USER, TELEGRAM_GROUP_URL } from "./env";
+
 export const SITE = {
 	title: 'VIRA VOTO',
 	description: 'Materiais e links compartilhados no grupo do telegram do Vira Voto 2022.',
@@ -9,7 +11,7 @@ export const OPEN_GRAPH = {
 		src: '/default-og-image.png',
 		alt: 'Materiais e links compartilhados no grupo do telegram do Vira Voto 2022.'
 	},
-	twitter: '',
+	twitter: OG_TWITTER_USER,
 };
 
 // See "Algolia" section of the README for more information.
@@ -30,14 +32,9 @@ export type Frontmatter = {
 	lang?: string;
 };
 
-export const KNOWN_LANGUAGES = {
-	English: 'en',
-} as const;
-export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
+export const GITHUB_EDIT_URL = GITHUB_PROJECT_URL;
 
-export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/tree/main/examples/docs`;
-
-export const COMMUNITY_INVITE_URL = `https://tinyurl.com/viravoto`;
+export const COMMUNITY_INVITE_URL = TELEGRAM_GROUP_URL;
 
 export type Sidebar =	Record<string, { text: string; link: string }[]>;
 export const SIDEBAR: Sidebar = {
