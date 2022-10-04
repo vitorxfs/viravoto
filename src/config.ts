@@ -32,6 +32,11 @@ export type Frontmatter = {
 	lang?: string;
 };
 
+export const KNOWN_LANGUAGES = {
+	English: 'en',
+} as const;
+export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
+
 export const GITHUB_EDIT_URL = GITHUB_PROJECT_URL;
 
 export const COMMUNITY_INVITE_URL = TELEGRAM_GROUP_URL;
