@@ -8,7 +8,11 @@ layout: ../layouts/MainLayout.astro
 - [VÍDEO: Técnicas de comunicação militante feat. Debora Baldin - Tese Onze](https://www.youtube.com/watch?v=xzub0VjnwJ4)
 - [VÍDEO: Como conversar com as pessoas? - Bem Vivendo](https://www.youtube.com/watch?v=4p7JwSQyZTI)
 
-#### Dicas
+
+#### Materiais Diversos
+- [Bolsopedia: Tudo que Bolsonaro fez em 4 anos e não quer que você saiba](https://www.bolsopedia.org/)
+
+#### Dicas de conteúdo e redes sociais
 - É importante informar, não humilhar
 - Use linguagem acessível e sucinta, como **Bolsolão** ao invés de orçamento secreto
 - Use humor, mas com cuidado para não atirar no próprio pé
