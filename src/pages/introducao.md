@@ -10,18 +10,13 @@ Esta página tem o propósito de centralizar conteúdos para auxiliar as pessoas
 - 🔗 [Acesse o acervo com imagens e vídeos para download, caso prefira](https://drive.google.com/drive/folders/10Y_vh5YJp06XPShryTgvNF7MGcmcPa5G)
 
 #### Passo 1: Foque nas redes sociais
-A campanha bolsonarista tem as redes como foco, e os seus eleitores são muito mais engajados. 
+A campanha bolsonarista tem as redes como foco, com um engajamento alto.  
 
-Esse é o momento de reativar o **Facebook**, [seguir perfis que estão produzindo conteúdos anti-bolsonaro](/nas-redes)
-e compartilhar. Vale também usar aquele grupo do **WhatsApp** da igreja de forma estratégica, desmentindo *fake news* sem agressão.
+⭐️ Nós temos uma [página com várias dicas e detalhes de como abordar as redes sociais (Facebook, Twitter, Instagram, TikTok, WhatsAppp)](/tecnicas-de-comunicacao) e outra sobre [o que abordar (ou como rebater) argumentos](/quais-topicos-abordar). 
 
-Os stories do WhatsApp (“status”) são muito efetivos nesse momento, e funcionam da mesma forma que o Instagram Stories. Não sub-estime esse canal!
+Para inspiração, você pode seguir [alguns perfis nas redes](/nas-redes). 
 
-**TikTok** e **Clubhouse** são redes sociais notoriamente populadas por bolsonaristas compartilhando desinformação, logo, sua partipação lá é muito importante.
-
-Vídeos curtos funcionam muito bem no TikTok, e são fáceis de re-compartilhar no **Instagram**, assim como no **Twitter**. Use `#hashtags` para ajudar a indexar o seu conteúdo.
-
-Não sabe como fazer o download e usar algumas funções das redes sociais? Leia o nosso [tutorial](/tutorial) com algumas dicas.
+Não sabe como fazer o download de conteúdo (vídeos, imagens e outros) e usar algumas funções das redes sociais? Leia o nosso [tutorial](/tutorial) explicando passo-a-passo.
 
 #### Passo 2: Dialogue efetivamente
 Jogo de cintura é tudo. Saber como se comunicar nesse momento fará toda a diferença nessas eleições, especialmente com os eleitores indecisos.
