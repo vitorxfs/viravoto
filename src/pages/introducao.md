@@ -11,16 +11,23 @@ indecisos. O foco é neles.
 
 ### *Como podemos fazer isso?*
 
-1. Foco nas redes sociais
+#### 1. Foco nas redes sociais
 
-A campanha bolsonarista tem isso como foco, e os seus eleitores são muito mais
-engajados.
+A campanha bolsonarista tem as redes como foco, e os seus eleitores são muito mais engajados.
 
-Esse é o momento de reativar o facebook, [seguir perfis que estão produzindo conteúdos anti-bolsonaro](/nas-redes)
-e compartilhar. Vale também usar aquele grupo do whatsapp da igreja de forma estratégica.
+Esse é o momento de reativar o **Facebook**, [seguir perfis que estão produzindo conteúdos anti-bolsonaro](/nas-redes)
+e compartilhar. Vale também usar aquele grupo do **WhatsApp** da igreja de forma estratégica, desmentindo *fake news* sem agressão.
+
+**TikTok** e **Clubhouse** são redes sociais notoriamente populadas por bolsonaristas compartilhando desinformação. Vídeos curtos funcionam muito bem no TikTok, e são fáceis de re-compartilhar no **Instagram**, assim como no **Twitter**. Use `#hashtags` para ajudar a indexar o seu conteúdo, e sempre que possível, forneça a fonte de sua informação: é muito importante manter a integridade, especialmente com dados chocantes (e essas não faltam).
+
+Para conteúdos em redes sociais:
+
+- [Entre no grupo do Telegram, há vídeos e fotos disponíveis para download](https://t.me/+fRKb1oBX6tMxNmMx)
+- [Siga perfis que estão produzindo conteúdos anti-bolsonaro](/nas-redes)
+- [Acesse o acervo com imagens e vídeos para download, caso prefira](https://drive.google.com/drive/folders/10Y_vh5YJp06XPShryTgvNF7MGcmcPa5G)
 
 
-2. Dialogar de forma efetiva
+#### 3. Dialogar de forma efetiva
 
 Jogo de cintura é tudo. O objetivo não é perder **mais** amizades, nem excluir ninguém do facebook.
 Temos uma [página com conteúdos sobre técnicas de diálogo militante](/tecnicas-de-comunicacao) para auxiliar nesse processo.
