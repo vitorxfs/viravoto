@@ -53,6 +53,6 @@ export const SIDEBAR: Sidebar = {
 	],
 	'Estratégias': [
 		{ text: '🤔 Quais tópicos abordar?', link: 'quais-topicos-abordar' },
-		{ text: '💬 Técnicas de Comunicação', link: 'tecnicas-de-comunicacao' },
+		{ text: '💬 Como Argumentar', link: 'tecnicas-de-comunicacao' },
 	],
 };
