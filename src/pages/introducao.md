@@ -21,9 +21,9 @@ Vídeos curtos funcionam muito bem no TikTok, e são fáceis de re-compartilhar 
 
 Para conteúdos em redes sociais:
 
-- [Entre no grupo do Telegram, há vídeos e fotos disponíveis para download](https://t.me/+fRKb1oBX6tMxNmMx)
-- [Siga perfis que estão produzindo conteúdos anti-bolsonaro](/nas-redes)
-- [Acesse o acervo com imagens e vídeos para download, caso prefira](https://drive.google.com/drive/folders/10Y_vh5YJp06XPShryTgvNF7MGcmcPa5G)
+- 💬 [Entre no grupo do Telegram, há vídeos e fotos disponíveis para download](https://t.me/+fRKb1oBX6tMxNmMx)
+- 🗣 [Siga perfis que estão produzindo conteúdos anti-bolsonaro](/nas-redes)
+- 🔗 [Acesse o acervo com imagens e vídeos para download, caso prefira](https://drive.google.com/drive/folders/10Y_vh5YJp06XPShryTgvNF7MGcmcPa5G)
 
 Exemplos de como produzir conteúdo efetivo nesse momento:
 
@@ -31,10 +31,9 @@ Exemplos de como produzir conteúdo efetivo nesse momento:
 - Imagens que contenham mais fotos e menos texto
 - Linguagem acessível e que ressoe com a audiência, como **Bolsolão** ao invés de orçamento secreto
 
+Não sabe como fazer o download e usar algumas funções das redes sociais? Leia o nosso [tutorial](/tutorial) com algumas dicas.
 
 #### Passo 2: Dialogue de forma efetiva
 
 Jogo de cintura é tudo. O objetivo não é perder **mais** amizades, nem excluir ninguém do facebook.
 Temos uma [página com conteúdos sobre técnicas de diálogo militante](/tecnicas-de-comunicacao) para auxiliar nesse processo.
-
-3. Mostrar que *existem sim* [escândalos de corrupção no governo bolsonaro](/escandalos)

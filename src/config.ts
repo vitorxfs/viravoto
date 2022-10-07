@@ -49,13 +49,10 @@ export const SIDEBAR: Sidebar = {
 	],
 	'Redes Sociais': [
 		{ text: '➕ Perfis para seguir', link: 'nas-redes'},
+		{ text: '⬇️ Como baixar videos, etc', link: 'tutorial'},
 	],
 	'Estratégias': [
-		{ text: '💬 Técnicas de Comunicação', link: 'tecnicas-de-comunicacao' },
 		{ text: '🤔 Quais tópicos abordar?', link: 'quais-topicos-abordar' },
-	],
-	'Notícias': [
-		{ text: '📰 Escândalos Bolsonaro', link: 'escandalos' },
-		{ text: '💉 Genocídio na Pandemia', link: 'pandemia' },
+		{ text: '💬 Técnicas de Comunicação', link: 'tecnicas-de-comunicacao' },
 	],
 };
