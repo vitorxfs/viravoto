@@ -25,3 +25,6 @@ Temos uma [página com conteúdos sobre técnicas de diálogo militante](/tecnic
 
 #### Passo 3: Vote no Lula
 Compareça ao segundo turno, mesmo que você não tenha votado no primeiro — desde que sua situação eleitoral esteja regularizada, é só descer o dedo no 13 no dia 30 de Outubro! 🎉 
+
+![Vira Voto - 01](/assets/viravoto-instagram-post.jpg)
+![Vira Voto - 02](/assets/viravoto-ig-story.png)
