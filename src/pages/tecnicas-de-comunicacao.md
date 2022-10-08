@@ -11,6 +11,7 @@ layout: ../layouts/MainLayout.astro
 
 #### Materiais Diversos
 - [Bolsopedia: Tudo que Bolsonaro fez em 4 anos e não quer que você saiba](https://www.bolsopedia.org/)
+- [Lista de coisas que aterrorizam o Bolsonaro e podem garantir nossa vitória](https://twitter.com/Rafael_Parente/status/1578418116970700800)
 
 #### Dicas de conteúdo e redes sociais
 - É importante informar, não humilhar
