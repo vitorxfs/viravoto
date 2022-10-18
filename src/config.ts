@@ -8,7 +8,7 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'default-og-image.png',
+		src: 'default-og-image.jpg',
 		alt: 'Materiais e links para auxiliar no vira voto 2022'
 	},
 	twitter: OG_TWITTER_USER,
